@@ -42,6 +42,23 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
 
+## 📈 GitHub Stats
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Dharmikkothiya&show_icons=true&theme=blueberry&hide_border=false&count_private=true&include_all_commits=true" alt="Dharmik's GitHub Stats" height="200px" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Dharmikkothiya&theme=blueberry&hide_border=false" alt="GitHub Streak" height="200px" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmikkothiya&layout=compact&theme=blueberry&hide_border=false" alt="Top Languages" width="50%" />
+</p>
+
 
 ## 📈 GitHub Stats
 
