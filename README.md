@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Dharmik Kothiya
 
-<!--
-**Dharmikkothiya/DharmikKothiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💙 Flutter Developer  
+🛠️ Node.js Backend Enthusiast  
+⚛️ React.js Developer
+🚀 Passionate about building full-stack apps with beautiful UI and powerful APIs
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- **Frontend:** Flutter, React.js 
+- **Backend:** Node.js, Express
+- **Database:** MongoDB, Firebase
+- **Tools:** Git, GitHub, VS Code, Postman , Android studio , Figma 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Dharmik's GitHub stats](https://github.com/Dharmikkothiya)
+
+## 📫 Let's Connect!
+- 💼 [LinkedIn](https://www.linkedin.com/in/dharmik-kothiya-3b2a771bb)
+- 📧 Email: dharmik.003.dk@gmail.com
+- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com) *(if available)*
+
+---
+> *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
