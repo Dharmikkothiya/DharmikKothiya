@@ -1,9 +1,14 @@
-# 👋 Hi, I'm Dharmik Kothiya
+# 👋 Hey there! I'm Dharmik Kothiya
 
-💙 Flutter Developer  
-🛠️ Node.js Backend Enthusiast  
-⚛️ React.js Developer
-🚀 Passionate about building full-stack apps with beautiful UI and powerful APIs
+💙 **Flutter Developer** | 🛠️ **Node.js Backend Developer** | ⚛️ **React.js Explorer**
+
+🎓 A Computer Science student with a passion for building modern, full-stack applications that are fast, functional, and beautifully designed.
+
+🚀 I love transforming complex ideas into clean, scalable solutions — combining **Flutter’s smooth UI** with **Node.js’s robust APIs** to bring projects to life.
+
+🌱 Currently exploring advanced **state management**, **clean architecture**, and sharpening my skills in **React.js** and backend engineering.
+
+📚 Always learning. Always building.
 
 
 
