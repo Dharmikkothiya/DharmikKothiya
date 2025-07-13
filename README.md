@@ -15,7 +15,7 @@
 ![Dharmik's GitHub stats](https://github.com/Dharmikkothiya)
 
 ## 📫 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/dharmik-kothiya-3b2a771bb)
+- 💼 LinkedIn:[LinkedIn](https://www.linkedin.com/in/dharmik-kothiya-3b2a771bb)
 - 📧 Email: dharmik.003.dk@gmail.com
 - 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com) *(if available)*
 
