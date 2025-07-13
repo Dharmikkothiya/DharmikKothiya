@@ -5,6 +5,20 @@
 ⚛️ React.js Developer
 🚀 Passionate about building full-stack apps with beautiful UI and powerful APIs
 
+## 💼 Tech Stack
+
+**Mobile:**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
+**Backend:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+**Frontend:**  
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+**Database:**  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+**Tools:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 ## 🔧 Tech Stack
 - **Frontend:** Flutter, React.js 
 - **Backend:** Node.js, Express
