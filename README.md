@@ -5,6 +5,11 @@
 ⚛️ React.js Developer
 🚀 Passionate about building full-stack apps with beautiful UI and powerful APIs
 
+
+
+
+
+
 ### 🔧 Tech Stack
 
 #### 📱 Mobile
@@ -34,6 +39,9 @@
 
 ## 📈 GitHub Stats
 ![Dharmik's GitHub stats](https://github.com/Dharmikkothiya)
+
+
+
 
 ## 📫 Let's Connect!
 - 💼 LinkedIn:[LinkedIn](https://www.linkedin.com/in/dharmik-kothiya-3b2a771bb)
