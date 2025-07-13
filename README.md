@@ -43,7 +43,10 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
 
 ## 📈 GitHub Stats
-![Dharmik's GitHub stats](https://github.com/Dharmikkothiya)
+
+![Dharmik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dharmikkothiya&show_icons=true&theme=radical&hide_border=false)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmikkothiya&layout=compact&theme=radical)
 
 
 
