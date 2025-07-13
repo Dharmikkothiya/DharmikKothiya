@@ -51,10 +51,10 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dharmikkothiya&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="Dharmik's GitHub Stats" width="49.5%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dharmikkothiya&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="49.5%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dharmikkothiya&show_icons=true&theme=blueberry&hide_border=false&count_private=true&include_all_commits=true" alt="Dharmik's GitHub Stats" width="49.5%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dharmikkothiya&theme=blueberry&hide_border=false" alt="GitHub Streak" width="49.5%" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmikkothiya&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmikkothiya&layout=compact&theme=blueberry&hide_border=false" alt="Top Languages" width="50%" />
 </p>
 
 ## 📫 Let's Connect!
